@@ -3,7 +3,7 @@
 ## TODO
 - [ ] add banner image
 - [ ] change favicon
-- [ ] design 404 page
+- [x] design 404 page
 - [x] change font
 
 ## Resources

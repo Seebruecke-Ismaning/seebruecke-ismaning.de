@@ -2,7 +2,6 @@ baseURL = "http://seebruecke-ismaning.github.io/"
 languageCode = "de-de"
 title = "Seebrücke Ismaning"
 theme = "cayman-hugo-theme"
-publishDir = "docs"
 
 [params]
   project_name = "Seebrücke Ismaning"

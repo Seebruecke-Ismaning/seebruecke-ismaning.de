@@ -1,0 +1,39 @@
+baseURL = "http://seebruecke-ismaning.github.io/"
+languageCode = "de-de"
+title = "Seebrücke Ismaning"
+theme = "cayman-hugo-theme"
+
+[params]
+  project_name = "Seebrücke Ismaning"
+  project_tagline = "Wir bauen eine Brücke zu sicheren Häfen."
+
+  header_background_color = "#dc6e28"
+  header_background_color_secondary = "#dc6e28"
+
+  section_headings_color = "#242830"
+  body_text_color = "#242830"
+  body_link_color = "#dc6e28"
+
+  footer = "2021 Seebrücke Ismaning | ismaning@seebruecke.org"
+
+[menu]
+  [[menu.nav]]
+    name = "Aktuelles"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Unsere Forderungen"
+    url = "/demands/"
+    weight = 2
+  [[menu.nav]]
+    name = "Interessante Links"
+    url = "/links/"
+    weight = 3
+  [[menu.nav]]
+    name = "Über uns"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 5

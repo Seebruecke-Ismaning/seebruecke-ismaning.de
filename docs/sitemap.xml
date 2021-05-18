@@ -32,21 +32,6 @@
     <loc>/about/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/katex/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/katex-math-typesetting/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/math/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/typesetting/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/earth/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,6 +63,9 @@
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/templates/</loc>

@@ -50,7 +50,7 @@ a {
   background-image: linear-gradient(120deg, #dc6e28, #dc6e28); }
   @media screen and (min-width: 64em) {
     .page-header {
-      padding: 5rem 6rem; } }
+      padding: 4rem 6rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
       padding: 3rem 4rem; } }
@@ -63,13 +63,19 @@ a {
   font-weight: 800; }
   @media screen and (min-width: 64em) {
     .project-name {
-      font-size: 3.5rem; } }
+      font-size: 4rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-name {
       font-size: 2.5rem; } }
   @media screen and (max-width: 42em) {
     .project-name {
       font-size: 2rem; } }
+  .project-name a {
+    color: #fff; }
+  .project-name a:hover {
+    text-decoration: none;
+    opacity: 0.9; }
+
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
@@ -111,7 +117,7 @@ a {
   .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: 500;
+    font-weight: 800;
     color: #242830; }
   .main-content p {
     margin-bottom: 1em; }

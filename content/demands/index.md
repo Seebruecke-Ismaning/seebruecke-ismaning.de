@@ -1,12 +1,18 @@
 ---
-title: "Sicherer Hafen Ismaning"
-date: 2019-03-29
+title: "Wir..."
 ---
 
-Tausende Geflüchtete erleben jeden Tag an den Außengrenzen Europas Zustände, die mit dem demokratischen, im Grundgesetz verankerten Selbstverständnis unseres Rechtsstaates nicht vereinbar sind. Sie sind von illegalen Pushbacks betroffen oder müssen in Sammellagern unter unwürdigen Bedingungen leben.
+__... fordern, dass Ismaning zu einem „Sicheren Hafen“ der Seebrücke erklärt wird__.
+Weil die Europäische Union unfähig ist, der humanitären Katastrophe an den Außengrenzen Europas, aber auch in den Flüchtlingslagern in Griechenland mit einer gemeinsamen Politik der Menschlichkeit zu begegnen, müssen wir handeln.
 
-So ist, nach dem verheerenden Brand im Sammellager Moria, die Zahl der Einwohner des Nachfolgecamps auf 7000 (Stand: November 2020) gestiegen. Den Betroffenen fehlt jegliche Perspektive, obwohl deutsche Asylanträge letztes Jahr auf ein Rekordtief der letzten 8 Jahre gefallen ist. Sicherlich spielen hier weitere Faktoren, wie die Coronapandemie mit ein.
+\
+__... möchten uns gemeinsam mit über 240 anderen deutschen Gemeinden und Städten__, die Oberbürgermeister*innen und Regierungen unterschiedlichster Parteizugehörigkeit haben, dafür einsetzen, dass die zuständigen politischen Verantwortlichen in Europa endlich das Sterben im Mittelmeer und das Elend in den Flüchtlingslagern beenden.
 
-Dennoch ist nicht von der Hand zu weisen, dass die prekäre Situation an Europas südlichen Außengrenzen eine humanitäre Katastrophe ist, die wir, als Bürgerinnen und Bürger der Europäischen Union, Deutschlands, Bayerns und Ismanings, nicht länger unkommentiert lassen können.
+\
+__... positionieren uns öffentlich gegen die Kriminalisierung der zivilen Seenotrettung__ und unterstützen diese. Dies kann durch Öffentlichkeitsarbeit, finanzielle Unterstützung oder Patenschaften geschehen.
 
-Diesen Menschen steht ein Recht auf Hilfe zu, die von der EU und leider, vielen deutschen Politiker*innen, vernachlässigt wird. Ein Recht auf Bildung, auf Menschenwürde und einem Leben frei von Gewalt und Unterdrückung ist für jeden Menschen, egal ob in Deutschland, Bayern oder an den EU Außengrenzen indiskutabel.
+\
+__... setzen uns für die Einrichtung neuer beziehungsweise für die Ausweitung bestehender Programme zur legalen Aufnahme von Menschen auf der Flucht ein__. Es ist uns bewusst, dass Ismanings Aufnahmekapazitäten angesichts der aktuellen Wohnsituation nicht unendlich sind und bereits über der im Landkreis liegenden Quote liegen. Dennoch möchten wir unsere Bereitschaft erklären, Menschen in Not aufzunehmen und lehnen es ab, diese zwei unterschiedlichen, sozialen Problemfelder gegeneinander aufzuspielen.
+
+\
+__... treten für Bleibeperspektiven ein__ und stellen uns im Rahmen unserer Möglichkeiten gegen Abschiebungen. Ismaning soll nicht nur ein Sicherer Hafen, sondern zugleich eine Solidarische Gemeinde für alle seine Bewohner*innen sein.

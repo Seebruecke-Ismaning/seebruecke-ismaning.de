@@ -118,7 +118,14 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: 800;
+    font-size: 2em;
     color: #242830; }
+  .main-content h2 {
+    font-size: 1.75rem; }
+  .main-content h4 {
+    font-size: 1.5rem;
+    margin-bottom: 0.1rem;
+    font-weight: 700; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {

@@ -38,3 +38,7 @@ publishDir = "docs"
     name = "Kontakt"
     url = "/contact/"
     weight = 5
+  [[menu.nav]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 6

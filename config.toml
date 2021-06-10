@@ -8,12 +8,11 @@ publishDir = "docs"
   project_name = "Seebrücke Ismaning"
   project_tagline = "Wir bauen eine Brücke zu sicheren Häfen."
 
-  header_background_color = "#dc6e28"
-  header_background_color_secondary = "#dc6e28"
+  header_background_color = "#f55511"
 
   section_headings_color = "#242830"
   body_text_color = "#242830"
-  body_link_color = "#dc6e28"
+  body_link_color = "#f55511"
 
   footer = "2021 Seebrücke Ismaning | ismaning@seebruecke.org"
 

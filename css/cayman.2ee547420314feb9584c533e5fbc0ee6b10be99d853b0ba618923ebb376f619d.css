@@ -10,66 +10,68 @@ body {
   color: #242830; }
 
 a {
-  color: #dc6e28;
+  color: #f55511;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
 
 .btn {
   display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+  margin-bottom: 0rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase; }
   .btn:hover {
-    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3); }
+    color: #f55511;
+    background-color: #fff; }
   .btn + .btn {
-    margin-left: 1rem; }
+    margin-left: 1.2rem; }
   @media screen and (min-width: 64em) {
     .btn {
-      padding: 0.75rem 1rem; } }
+      padding: 0.2rem 0.5rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .btn {
-      padding: 0.6rem 0.9rem;
-      font-size: 0.9rem; } }
+      padding: 0.5rem 0.5rem;
+      font-size: 0.9rem;
+      width: fit-content; } }
   @media screen and (max-width: 42em) {
     .btn {
-      padding: 0.75rem;
-      font-size: 0.9rem; } }
+      padding: 0.1rem;
+      font-size: 0.8rem;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .btn + .btn {
+        margin-left: 0rem; } }
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #dc6e28;
-  background-image: linear-gradient(120deg, #dc6e28, #dc6e28); }
+  background-color: #f55511; }
   @media screen and (min-width: 64em) {
     .page-header {
-      padding: 4rem 6rem; } }
+      padding: 0.5rem 4rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
-      padding: 3rem 4rem; } }
+      padding: 2rem 4rem; } }
   @media screen and (max-width: 42em) {
     .page-header {
-      padding: 2rem 1rem; } }
+      padding: 0.5rem 0.5rem; } }
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   font-weight: 800; }
   @media screen and (min-width: 64em) {
     .project-name {
       font-size: 4rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-name {
-      font-size: 2.5rem; } }
+      font-size: 2rem; } }
   @media screen and (max-width: 42em) {
     .project-name {
-      font-size: 2rem; } }
+      font-size: 2rem;
+      line-height: 1em; } }
   .project-name a {
     color: #fff; }
   .project-name a:hover {
@@ -105,7 +107,7 @@ a {
       font-size: 1.1rem; } }
   @media screen and (max-width: 42em) {
     .main-content {
-      padding: 2rem 1rem;
+      padding: 1rem 1rem;
       font-size: 1rem; } }
   .main-content img {
     max-width: 100%; }
@@ -243,9 +245,9 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #242830; }
   .site-footer-credits a {
-    color: #819198;
+    color: #242830;
     text-decoration: none; }
     .site-footer-credits a:hover {
       text-decoration: underline; }

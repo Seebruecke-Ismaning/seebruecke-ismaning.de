@@ -2,6 +2,19 @@
 title: Aktuelles
 ---
 
+# Einladung zum Informationsstand
+
+_6. August 2021_
+
+Am Samstag, den 7. August, sind wir mit einem Infostand am Ismaninger Bahnhof vor Ort!
+Ihr findet uns vor der Jugendfreizeitstätte ZAP Ismaning von 14:00 bis 18:00 Uhr.
+
+Wir freuen uns über jeden, der vorbeischaut!
+
+{{< figure src="images/sb-einladung-infostand.jpg" width="600" alt="Einladung zum Infostand am 7. August 2021">}}
+
+---
+
 # Einladung zum Online-Infoabend
 
 _10. Juni 2021_
@@ -12,7 +25,7 @@ Nach einer kurzen Vorstellung hier und auf Instagram möchten wir mit so vielen 
 
 Du möchtest dabei sein? Schreibe uns eine E-Mail unter ismaning@seebruecke.org um die Zugangsdaten zur Veranstaltung zu erhalten!
 
-{{< figure src="images/sb-einladung-infoabend.jpg" width="600" alt="Seebrücke Ismaning auf Instagram: @seebruecke_ismaning">}}
+{{< figure src="images/sb-einladung-infoabend.jpg" width="600" alt="Einladung zum Online-Infoabend am 16. Juni 2021">}}
 
 ---
 
